@@ -11,7 +11,7 @@ This is a simple implementation of the classic Tic Tac Toe game using HTML, CSS,
 
 1. Clone the repository to your local machine.
    
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/your-username/TicTacToe.git
    
 
 2. Open the index.html file in your preferred web browser.
