@@ -24,11 +24,5 @@ This is a simple implementation of the classic Tic Tac Toe game using HTML, CSS,
 ![TicTacToeSS2](https://github.com/tushardholke/TicTacToe/assets/64600744/ee410035-1b1b-4453-994f-15d3dc8aa916)
 ![TicTacToeSS3](https://github.com/tushardholke/TicTacToe/assets/64600744/472b3dac-c025-4d6b-9020-7b5221370a8d)
 
-
-## Technologies Used
-- HTML
-- CSS
-- JavaScript
-
 ## Contributing
 Feel free to contribute by opening issues or creating pull requests. Your feedback and suggestions are highly appreciated.
