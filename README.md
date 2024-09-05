@@ -16,9 +16,9 @@ This is a simple implementation of the classic Tic Tac Toe game using HTML, CSS,
 1. Clone the repository to your local machine.
    ```bash
    git clone https://github.com/your-username/TicTacToe.git
-3. Open the index.html file in your preferred web browser.
-4. Click on the squares to make your moves and take turns with your opponent.
-5. The game will automatically indicate the winner or a tie.
+2. Open the index.html file in your preferred web browser.
+3. Click on the squares to make your moves and take turns with your opponent.
+4. The game will automatically indicate the winner or a tie.
 
 ## Screenshots
 ![TicTacToeSS1](https://github.com/tushardholke/TicTacToe/assets/64600744/b04978b0-8f9d-4453-9b09-f9ab4e3ac31c)
